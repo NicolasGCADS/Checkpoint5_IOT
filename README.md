@@ -18,7 +18,9 @@ Resumo Final:
 
 Melhor modelo (menor RMSE): Random Forest
 
-### Parte 2 do Exercicio foi mostrada em aula  
+### Parte 2 do Exercicio 
+
+https://app.roboflow.com/murilo-rw6re/bananabread-3nbkj/models
 
 # Nome e Rms
 Nicolas Guinante // 557844
