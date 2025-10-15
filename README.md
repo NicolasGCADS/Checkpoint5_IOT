@@ -8,7 +8,7 @@ Acurácia Random Forest:       1.0000
 
 O modelo Random Forest teve desempenho superior neste caso.
 
-# 2 Exercicio de Rede Neural
+## 2 Exercicio de Rede Neural
 O exercicio foi análisar um dataset de valor medio de casas, o resultado foi 
 
 Resumo Final:
@@ -17,6 +17,8 @@ Resumo Final:
 1        Random Forest  0.505143  0.327425  0.805275
 
 Melhor modelo (menor RMSE): Random Forest
+
+### Parte 2 do Exercicio foi mostrada em aula  
 
 # Nome e Rms
 Nicolas Guinante // 557844
